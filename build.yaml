@@ -12,8 +12,8 @@
 #     shield: reviung41
 #
 ---
-board: [seeeduino_xiao_ble]
-shield: [hammer40]
+# board: [seeeduino_xiao_ble]
+# shield: [hammer40]
 include:
   - board: seeeduino_xiao_ble
     shield: hammer40 rgbled_adapter
